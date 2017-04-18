@@ -2,19 +2,32 @@
   font-family: 'Josefin Sans', sans-serif;
   font-size: 24px;
   margin-top: 25px;
+  margin-left: 100px;
+}
+
+#laboratoria {
+   padding-top: 10px;
+   display: inline-block;
+   margin: 10px;
+   background: yellow;
+   height: 30px;
+   width: 130px;
 }
 
 .franjasDobles {
-  margin: 50px 100px;
+  padding-top: 10px;
+  display: inline-block;
+  margin: 10px;
   background: yellow;
-  height: 70px;
-  width: 230px
+  height: 30px;
+  width: 240px;
 }
 
 .franjaUnica {
-  margin: 50px 100px;
-  border: 1px solid black;
+  padding-top: 10px;
+  display: inline-block;
+  margin: 10px;
   background: #FE2E64;
-  height: 70px;
-  width: 230px
+  height: 30px;
+  width: 30px
 }
