@@ -5,13 +5,13 @@
 }
 
 .franjasDobles {
-  display: block;
+  margin: 0;
   background: yellow;
   height: 70px;
 }
 
 .franjaUnica {
-  display: block;
+  margin: 0;
   border: 1px solid black;
   background: pink;
   height: 70px;
